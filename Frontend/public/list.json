@@ -1,0 +1,88 @@
+[{
+    "id":1,
+    "name":"Non-Fiction",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "price":0,
+    "category":"Unpaid",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1432821782.1749380364&semt=ais_hybrid&w=740"
+},
+{
+    "id":2,
+    "name":"Fiction",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "price":0,
+    "category":"Unpaid",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1432821782.1749380364&semt=ais_hybrid&w=740"
+},
+{
+    "id":3,
+    "name":"Biography",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "price":0,
+    "category":"Unpaid",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1432821782.1749380364&semt=ais_hybrid&w=740"
+},
+{
+    "id":4,
+    "name":"Autobiography",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "price":0,
+    "category":"Unpaid",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1432821782.1749380364&semt=ais_hybrid&w=740"
+},
+{
+    "id":5,
+    "name":"Science Fiction",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "price":0,
+    "category":"Unpaid",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1432821782.1749380364&semt=ais_hybrid&w=740"
+},
+{
+    "id":6,
+    "name":"Fantasy",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "price":600,
+    "category":"paid",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1432821782.1749380364&semt=ais_hybrid&w=740"
+},
+{
+    "id":7,
+    "name":"Mystery",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "price":500,
+    "category":"paid",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1432821782.1749380364&semt=ais_hybrid&w=740"
+},
+{
+    "id":8,
+    "name":"Thriller",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "price":400,
+    "category":"paid",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1432821782.1749380364&semt=ais_hybrid&w=740"
+},
+{
+    "id":9,
+    "name":"Self-help",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "price":300,
+    "category":"paid",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1432821782.1749380364&semt=ais_hybrid&w=740"
+},
+{
+    "id":10,
+    "name":"History",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "price":200,
+    "category":"paid",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1432821782.1749380364&semt=ais_hybrid&w=740"
+},
+{
+    "id":11,
+    "name":"Poetry",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "price":100,
+    "category":"paid",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.1432821782.1749380364&semt=ais_hybrid&w=740"
+}]
