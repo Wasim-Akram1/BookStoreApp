@@ -1,7 +1,8 @@
 import React from 'react'
 import Home from './home/Home'
 import {Navigate, Route,Routes} from 'react-router-dom'
-import Courses from './courses/courses'
+import Courses from "./courses/Courses"
+// import Courses from './courses/courses'
 import Signup from './components/Signup'
 import Contact from './contact/contact'
 import { Toaster } from 'react-hot-toast';
